@@ -4,5 +4,5 @@ In here we explore the potential of numpy applied to linear algebra. We will exp
 ### Vectorization
 ### Broadcasting
 
-I will mostly follow the documentation of numpy. If you have any doubts or need further explanation refer to https://numpy.org/.
+**Note:** I will mostly follow the documentation of numpy. If you have any doubts or need further explanation refer to https://numpy.org/.
 
