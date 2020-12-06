@@ -2,6 +2,9 @@
 In here we explore the potential of numpy applied to linear algebra. We will explore all the properties related to vectors and matrices. But we will stay focussed on exploring the abilities of numpy applied to linear algebra. I will think that you have some basic understanding of numpy. This series of notebooks will help you to organize your understanding on the abilities of numpy.
 ## Some of the topics covered:
 ### Array Creation
+### Vector Operations
+### Matrix creation
+### Matrix Opertaions
 ### Vectorization
 ### Broadcasting
 
