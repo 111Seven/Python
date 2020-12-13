@@ -3,6 +3,8 @@ In here we explore the potential of numpy applied to linear algebra. We will exp
 ## Topics:
 ### Array Creation
 ### Vector Operations
+### Dot Product
+### Cross Product
 ### Matrix creation
 ### Matrix Opertaions
 ### Vectorization
